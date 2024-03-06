@@ -1,0 +1,57 @@
+QPushButton {{
+  color: {QTMATERIAL_PRIMARYTEXTCOLOR};
+  text-transform: Microsoft YaHei;
+  background-color: {QTMATERIAL_SECONDARYCOLOR};
+  border-radius: 10px
+}}
+
+.main_title {{
+  font-size: 44px;
+  font-family: 'Microsoft YaHei'
+}}
+
+.semi_title {{
+  font-size: 18px;
+  font-family: 'Microsoft YaHei'
+}}
+
+.main_button {{
+  font-size: 28px;
+  font-family: 'Microsoft YaHei';
+  border-radius: 10px
+}}
+
+.question_label {{
+  font-size: 60px;
+  font-family: 'Microsoft YaHei';
+  line-height: 10px;
+}}
+
+.draw_button {{
+  font-size: 44px;
+  font-family: 'Microsoft YaHei'
+}}
+
+.number_label{{
+  font-size: 28px;
+  font-family: 'Microsoft YaHei'
+}}
+
+.QMessageBox QLabel#qt_msgbox_label {{
+  font-size: 32px;
+  font-family: 'Microsoft YaHei'
+}}
+
+.QMessageBox QPushButton{{
+  font-size: 28px;
+  font-family: 'Microsoft YaHei';
+  border-radius: 10px;
+  min-width: 100px;
+  min-height: 45px;
+}}
+
+
+.refresh_button{{
+  font-size: 24px;
+  font-family: 'Microsoft YaHei'
+}}

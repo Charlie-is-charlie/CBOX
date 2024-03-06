@@ -1,0 +1,33 @@
+欢迎使用
+
+          “ 抽题CBox_v1.0 ” 
+           
+使用说明
+
+          1、在 default.txt 中添加问题，一行一个，完成后保存
+          2、双击打开 boss.exe 即可
+          
+注意事项
+
+          请勿移动文件夹内文件的位置
+          
+          
+———— 更新于2023年11月29日———— 
+
+
+
+Welcome to use
+
+          "Draw CBox_v1.0" 
+           
+Instructions for use
+
+          1. Add questions in default.txt one by one, and save them when you're done
+          2. Double-click to open boss.exe
+          
+Notices
+
+          Do not move the location of the files in the folder
+          
+          
+———— Updated on Nov.29, 2023 ———— 
